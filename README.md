@@ -8,4 +8,5 @@ Hackathon 1 - Tutorial: LIF Neuron Part I
 
 ## Assignments 
 Assignment 1 - & Computational Programming
+
 Assignment 2 - Modeling Data
