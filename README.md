@@ -1,7 +1,7 @@
 # CSCI_591
-My work for CSCI 591 - Computational Cognitive Neuroscience
+My homework for CSCI 591 - Computational Cognitive Neuroscience
 
-This repository includes Hackathons (coding practice done in class), assignments, and my final project. 
+This repository includes Hackathons (coding practice done in class) and assignments. Final project is located in my Porftofio repository.
 
 ## Hackathons 
 Hackathon 1 - Tutorial: LIF Neuron Part I
